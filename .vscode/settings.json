@@ -6,6 +6,10 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "bounded",
+    "editor.cursorStyle": "line",
     "git.autofetch": true,
-    "git.enabled": true
+    "git.enabled": true,
 }
