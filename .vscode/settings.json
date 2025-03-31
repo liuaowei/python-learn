@@ -2,5 +2,10 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "editor.formatOnSave": true
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "git.enabled": true
 }
